@@ -1,0 +1,694 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ex",
+				"excluir\texcluir"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/index.html",
+			"settings":
+			{
+				"buffer_size": 5146,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 583,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 1574,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: excluir"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/boilerplate-bt3-jq3",
+		"/C/xampp/htdocs/boilerplate-bt3-jq3/src"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/boilerplate-bt3-jq3/gulpfile.js",
+		"/C/xampp/htdocs/eventos/gulpfile.js",
+		"/C/xampp/htdocs/eventos/src/index.html",
+		"/C/xampp/htdocs/eventos/src/js/fornecedor.js",
+		"/C/xampp/htdocs/eventos/src/js/cliente.js",
+		"/C/xampp/htdocs/eventos/src/js/usuario.js",
+		"/C/xampp/htdocs/eventos/src/views/forms/form_fornecedor.html",
+		"/C/xampp/htdocs/eventos/src/index.php",
+		"/C/xampp/htdocs/boilerplate-bt3-jq3/package.json",
+		"/D/Desktop/Resultado da Consulta.txt",
+		"/D/Desktop/cep_formatado.sql",
+		"/C/xampp/htdocs/eventos - Copia/gulpfile.js",
+		"/C/xampp/htdocs/eventos/dist/index.html",
+		"/C/xampp/htdocs/eventos/src/css/index-css-inline.css",
+		"/D/Desktop/helium-report.txt",
+		"/C/xampp/htdocs/eventos/src/css/bootstrap-login.min.css",
+		"/C/xampp/htdocs/eventos/src/css/bootstrap-login.css",
+		"/C/xampp/htdocs/0/dist/index.html",
+		"/C/xampp/htdocs/eventos/matrix/index.php",
+		"/C/xampp/htdocs/0/matrix/fantasy.php",
+		"/C/xampp/htdocs/eventos/package.json",
+		"/C/xampp/htdocs/0/matrix/eventos/index.php",
+		"/C/xampp/htdocs/eventos/src/views/cabecalho.html",
+		"/C/xampp/htdocs/0/eventos/src/js/cep.js",
+		"/C/xampp/htdocs/0/eventos/src/js/abridor.js",
+		"/C/xampp/htdocs/0/eventos/gulpfile.js",
+		"/C/xampp/htdocs/0/eventos/package.json",
+		"/C/xampp/htdocs/0/gulpfile.js",
+		"/C/xampp/htdocs/0/package.json",
+		"/C/xampp/htdocs/0/eventos/index.html",
+		"/C/xampp/htdocs/0/eventos/ajax/usuario.php",
+		"/C/xampp/htdocs/0/eventos/ajax/recuperasenha.php",
+		"/C/xampp/htdocs/0/eventos/css/estilos.css",
+		"/C/xampp/htdocs/0/eventos/css/index.css",
+		"/C/xampp/htdocs/0/eventos/js/empresa.js",
+		"/C/xampp/htdocs/0/eventos/js/index.js",
+		"/C/xampp/htdocs/0/eventos/ajax/validar.php",
+		"/C/xampp/htdocs/0/eventos/js/javascript.js",
+		"/C/xampp/htdocs/0/eventos/ajax/fornecedor.php",
+		"/C/xampp/htdocs/0/eventos/ajax/getfornecedor.php",
+		"/C/xampp/htdocs/0/eventos/views/rodape.html",
+		"/C/xampp/htdocs/0/eventos/js/contatoCliente.js",
+		"/C/xampp/htdocs/0/eventos/js/contatoFornecedor.js",
+		"/C/xampp/htdocs/0/eventos/js/objetos.js",
+		"/C/xampp/htdocs/0/eventos/ajax/contato-fornecedor.php",
+		"/C/xampp/htdocs/0/eventos/ajax/getlistacontatopessoa.php",
+		"/C/xampp/htdocs/0/eventos/js/login.js",
+		"/C/xampp/htdocs/0/eventos/css/bootstrap-login.css",
+		"/C/xampp/htdocs/0/eventos/views/forms/form_fornecedor.html",
+		"/C/xampp/htdocs/0/eventos/js/cliente.js",
+		"/C/xampp/htdocs/0/eventos/js/validapermissoes.js",
+		"/C/xampp/htdocs/0/eventos/js/fornecedor.js",
+		"/C/xampp/htdocs/0/eventos/js/usuario.js",
+		"/C/xampp/htdocs/0/eventos/css/bootstrap-login.min.css",
+		"/C/xampp/htdocs/0/eventos/fonts/glyphicons-halflings-login.svg",
+		"/C/xampp/htdocs/0/eventos/fonts/glyphicons-halflings-regular.eot",
+		"/C/xampp/htdocs/0/eventos/fonts/glyphicons-halflings-regular.woff",
+		"/C/xampp/htdocs/0/eventos/fonts/glyphicons-halflings-regular.woff2",
+		"/C/xampp/htdocs/0/eventos/fonts/glyphicons-halflingslogin.svg",
+		"/C/xampp/htdocs/0/bootstrap-somenteparalogin/css/bootstrap.min.css",
+		"/C/xampp/htdocs/0/eventos/ajax/getcontatopessoa.php",
+		"/C/xampp/htdocs/0/eventos/ajax/getlistacontatofornecedor.php",
+		"/C/xampp/htdocs/0/eventos/views/forms/modal.html",
+		"/C/xampp/htdocs/0/eventos/js/cep.js",
+		"/C/xampp/htdocs/0/eventos/ajax/existeregistro.php",
+		"/C/xampp/htdocs/0/eventos/js/atualizalista.js",
+		"/C/xampp/htdocs/0/eventos/ajax/config.php",
+		"/D/Desktop/teste.js",
+		"/C/Users/doug/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/C/Users/doug/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/xampp/htdocs/0/eventos/views/cabecalho.html",
+		"/C/xampp/htdocs/0/eventos-antes de reestruturar com boilerplate/index.html",
+		"/C/xampp/htdocs/0/eventos-antes de reestruturar com boilerplate/index.php",
+		"/C/xampp/htdocs/0/boilerplate/index.html",
+		"/C/xampp/htdocs/0/boilerplate/css/bootstrap-337.min.css",
+		"/C/xampp/htdocs/0/boilerplate/css/bootstrap-theme.min.css",
+		"/C/xampp/htdocs/0/boilerplate/js/vendor/modernizr-283.min.js",
+		"/D/Desktop/bootstrap-3.3.7-dist/js/bootstrap.min.js",
+		"/D/Desktop/jquery-3.1.1.min.js",
+		"/D/Desktop/html5-boilerplate_v5.3.0/404.html",
+		"/C/xampp/htdocs/0/initializr/index.html",
+		"/D/Desktop/html5-boilerplate_v5.3.0/index.html",
+		"/C/xampp/htdocs/0/eventos/ajax/getlistafornecedor.php",
+		"/C/xampp/htdocs/0/eventos/ajax/getcliente.php",
+		"/C/xampp/htdocs/0/eventos/js/telefoneempresa.js",
+		"/C/xampp/htdocs/0/eventos/ajax/telefone-empresa.php",
+		"/C/xampp/htdocs/0/eventos/views/forms/form_empresa.html",
+		"/C/xampp/htdocs/0/eventos/ajax/getlistatelefoneempresa.php",
+		"/C/xampp/htdocs/0/eventos/ajax/gettelefoneempresa.php",
+		"/C/xampp/htdocs/0/eventos/ajax/telefone-cliente.php",
+		"/C/xampp/htdocs/0/eventos/ajax/cliente.php",
+		"/C/xampp/htdocs/0/eventos/views/forms/form_grupousuario.html",
+		"/C/xampp/htdocs/0/eventos/js/abridor.js",
+		"/D/Desktop/User/teste.sublime-snippet",
+		"/C/Users/doug/AppData/Roaming/Sublime Text 3/Packages/User/excluir.sublime-snippet",
+		"/D/Desktop/User/ajaxexcluir.sublime-snippet",
+		"/D/Desktop/User/chromelog.sublime-snippet"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"cssmin",
+			"\"2",
+			"> 2000000",
+			"200000000",
+			" ",
+			"\"",
+			"'),(",
+			"{G}",
+			"clean",
+			"eventos",
+			"alert",
+			"header",
+			"valid",
+			"corpo-login",
+			"#form-login",
+			"glyphicons-halflings-regular",
+			"svg",
+			"font",
+			"e014",
+			"div-inputs-",
+			"carregaC",
+			"novoFor",
+			"4",
+			"getcontatofornecedor.php",
+			"getcontatocliente.php",
+			"carregaListaContatoFornecedor",
+			"getlistacontatocliente.php",
+			"getlistacontatofornecedor.php",
+			"cliente",
+			"CLIENTE",
+			"Cliente",
+			"CLIENTE",
+			"cliente",
+			"forneceodor",
+			"DOC_FORNECEDOR",
+			"tipoPessoa",
+			"{\n",
+			"Cliente",
+			"cliente",
+			">",
+			"cliente",
+			"CLIENTE",
+			"fornecedors",
+			"CLIENTE",
+			"cliente",
+			"clientes",
+			"cliente",
+			"clientes",
+			"CLIENTE",
+			"fornecedors",
+			"CLIENTE",
+			"cliente",
+			"Contato",
+			"cliente",
+			"EMPRESA",
+			"cliente",
+			"TelefoneEmpresa",
+			"telefoneEmpresa",
+			"this",
+			"$"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5146,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								718,
+								718
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 32.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 583,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										581,
+										582
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1574,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "boilerplate-bt3-jq3.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 444.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
